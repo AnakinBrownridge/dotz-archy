@@ -14,7 +14,7 @@
   </h4>
 
 >   [!Caution]
->   Some files expect you to run [pywal](https://github.com/dylanaraps/pywal) at least once to work
+>   I no longer use nor maintain this config. You should do tweaks to fix 2 main issues: [broken paths](https://github.com/zDyant/HyprNova/issues/25) and [hyprland new syntax](https://github.com/zDyant/HyprNova/issues/26)  
 
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
