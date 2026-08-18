@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/zDyanTB/HyprNova/master/.github/nova-banner.png" alt="Logo"/><br><br>
+  <img src="https://raw.githubusercontent.com/AnakinBrownridge/dotz-archy/master/.github/darchy.svg" alt="Logo"/><br><br>
   Dotz.Archy for Hyprland and Arch Linux
 </h2>
 
