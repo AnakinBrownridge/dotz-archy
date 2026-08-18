@@ -111,6 +111,7 @@
 
 # TODO
 
+- [ ] Switch to Quickshell, and overhaul some of the UI/UX.
 - [ ] Switch to Matugen (or Wallust)
 - [ ] Tweak swaync mpris cover background
 - [ ] Branch old rofi
