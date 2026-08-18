@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/zDyanTB/HyprNova/master/.github/nova-banner.png" alt="Logo"/><br><br>
-  HyprNova for Hyprland
+  Dotz.Archy for Hyprland and Arch Linux
 </h2>
 
 <h3 align="center">
