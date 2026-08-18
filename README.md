@@ -8,9 +8,7 @@
 </h3>
 
 <h4 align="center">
-  <a href="https://github.com/zDyanTB/HyprNova/blob/master/documentation.md">Check out the documentation!</a><br><br>
-  
-  <a href="https://github.com/zDyanTB/aesthic-wallpapers">My wallpapers!</a>
+  <a href="https://github.com/AnakinBrownridge/dotz-archy/blob/master/documentation.md">Check out the documentation!</a><br><br>
   </h4>
 
 >   [!Caution]
