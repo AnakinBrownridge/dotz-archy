@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/AnakinBrownridge/dotz-archy/master/.github/darchy.svg" alt="Logo"/><br><br>
-  Dotz.Archy for Hyprland and Arch Linux
+  Dotz.Archy/Pixie for Hyprland and Arch Linux
 </h2>
 
 <h3 align="center">
@@ -10,15 +10,8 @@
 <h4 align="center">
   <a href="https://github.com/AnakinBrownridge/dotz-archy/blob/master/documentation.md">Check out the documentation!</a><br><br>
   </h4>
+ 
 
->   [!Caution]
->   I no longer use nor maintain this config. You should do tweaks to fix 2 main issues: [broken paths](https://github.com/zDyant/HyprNova/issues/25) and [hyprland new syntax](https://github.com/zDyant/HyprNova/issues/26)  
-
-<h3 align="center">
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-	1.0 is Out!
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-</h3>
 
 # Features
 - Fully pywal integrated
@@ -109,6 +102,7 @@
 
 # TODO
 
+- [ ] Add Material You 3.0 Expressive support in the Quickshell version when that comes out.
 - [ ] Switch to Quickshell, and overhaul some of the UI/UX.
 - [ ] Switch to Matugen (or Wallust)
 - [ ] Tweak swaync mpris cover background
@@ -124,5 +118,6 @@
 
 
 # Thanks to
+- .[zDyant](https://github.com/zDyant) for the original, unforked version!
  - [JaKooLit](https://github.com/JaKooLit) for the scripts and dotfiles!
- - [adi1090x](https://github.com/adi1090x/rofi) themes ideias!
+ - [adi1090x](https://github.com/adi1090x/rofi) theme ideas!
