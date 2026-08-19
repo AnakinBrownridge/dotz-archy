@@ -118,6 +118,6 @@
 
 
 # Thanks to
-- .[zDyant](https://github.com/zDyant) for the original, unforked version!
+- [zDyant](https://github.com/zDyant) for the original, unforked version!
  - [JaKooLit](https://github.com/JaKooLit) for the scripts and dotfiles!
  - [adi1090x](https://github.com/adi1090x/rofi) theme ideas!
