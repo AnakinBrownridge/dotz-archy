@@ -1,3 +1,4 @@
+This is a secondary dotfiles setup. If you want something fully created by me, then wait a few months until I make my first real non-forked Quickshell or whatever setup.
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/AnakinBrownridge/dotz-archy/master/.github/darchy.svg" alt="Logo"/><br><br>
   Dotz.Archy/Pixie for Hyprland and Arch Linux
